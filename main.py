@@ -1,5 +1,7 @@
-import user_input
+from trainee_generator import *
 
-months = user_input.months_input()
 
-print(f"Running for {months} months.")
+sparta_simulator()
+
+
+
