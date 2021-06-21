@@ -1,0 +1,1 @@
+import trainee_generator
