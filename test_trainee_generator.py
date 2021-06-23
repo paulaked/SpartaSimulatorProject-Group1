@@ -19,10 +19,3 @@ class TestRandGen(unittest.TestCase):
 class ListTests(unittest.TestCase):
     def test_trainees(self):
         self.assertIsInstance(waiting_list, list)
-
-
-#  Currently unrequired test
-# class TestNewTraineeAdd(unittest.TestCase):
-#
-#     def test_trainee_added(self):
-
